@@ -1,29 +1,25 @@
-## Rental Price Predictions Project By GuviOfficial
+# Rental Price Predictions Project By GuviOfficial
 
-A machine learning project for predicting if a company should publish a webpage or an application for better profit.
+## <div id=0>Description</div>
 
-<img src="https://badgen.net/badge/Linear Regression/Unsupervised Machine Learning/blue?icon=python"/>
+The aim of this project is to create a data-centered framework that can anticipate the rental cost of residential properties by considering pertinent characteristics. Through an examination of past rental information and property details, the model strives to offer precise and dependable forecasts for rents.
 
-## Project Status
-[Completed](https://github.com/403errors/DS-ML-PorfolioProjects/blob/main/1%20Linear%20Regression/linear_regression_project.ipynb)
+Technologies that were used while creating this project were -
 
-## Reflection
+- **<span style="color:red">Cleansing</span>** : Data cleansing was indispensable to eliminate inconsistencies, errors, and outliers from the rental dataset.
+- **<span style="color:red">EDA</span>** : Through visualizations, statistical summaries, and pattern recognition, EDA enabled the identification of trends, correlations, and potential hidden insights among the rental-related attributes.
+- **<span style="color:red">Visualization</span>** : Visual representations of data distributions, trends, and geographical patterns aided in presenting a clear and coherent narrative regarding the factors influencing rental prices. This not only fostered better understanding among project participants but also guided informed decisions on feature engineering and model design.
+- **<span style="color:red">ML</span>** : By using ML techniques, the model was able to learn from historical rental data and attribute relationships discovered during the EDA phase. This enabled the model to generalize patterns, predict rental prices for new instances, and adapt to changing rental market dynamics over time.
 
-  - This was a Linear Regression, Unsupervised Machine Learning Project. 
-  - Linear regression is a powerful tool that can be used to predict a wide variety of outcomes, including:
+The culmination of these technologies ensured that the predictive model achieved the desired accuracy, robustness, and applicability in forecasting rental prices for residential properties.
 
-    - Sales
-    - Profits
-    - Customer satisfaction
-    - Employee turnover
-    - Risk of disease
-    - Test scores
-    - And much more
-    <br>
-  - Linear regression is a relatively simple statistical method, but it can be very effective when used correctly. It is important to understand the assumptions of linear regression and to use the correct statistical tests to evaluate the results.
-  - Following tools have been used for making this project:
-    - numpy
-    - pandas
-    - matplotlib
-    - seaborn
-    - sklearn
+## Requirements
+
+- Python3 and pip
+
+## Libraries
+
+- Matplotlib
+- Pandas
+- Seaborn
+- json
